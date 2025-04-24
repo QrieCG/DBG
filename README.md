@@ -7,9 +7,9 @@
   <body>
     <h1>Dietrich Bonhoeffers Überzeugung</h1>
   <a href="index.html">Allgemeines</a> |
-  <a href="index.html">Theologisch</a> |
-  <a href="index.html">Politisch</a> |
-  <a href="index.html">Ethisch</a>|
-  <a href="index.html">Kritik an der bestehenden Ordnung</a> |
+  <a href="Theo.html">Theologisch</a> |
+  <a href="Poli.html">Politisch</a> |
+  <a href="Ethi.html">Ethisch</a>|
+  <a href="Krit.html">Kritik an der bestehenden Ordnung</a> |
   </body>
   </html>
