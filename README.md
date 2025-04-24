@@ -19,18 +19,3 @@
   <p>
 
   </p>
-
-
-
-*{
-padding: 0;
-margin: 0;
-}
-html{
-height:100%;
-}
-body{
-height 100%;
-background-image: url("bonhoeffer.cdeutsches.bundesarchiv.jpg");
-h1{
-colo
