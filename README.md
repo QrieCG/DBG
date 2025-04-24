@@ -4,7 +4,8 @@
   
   </head>
   <body>
-    <h1>Dietrich Bonhoeffers Überzeugung</h1>
+   <center>
+  <h1>Dietrich Bonhoeffers Überzeugung</h1> <center>
   <a href="index.html">Allgemeines</a> |
   <a href="Theo.html">Theologisch</a> |
   <a href="Poli.html">Politisch</a> |
