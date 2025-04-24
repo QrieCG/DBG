@@ -6,6 +6,6 @@
   </head>
   <body>
     <h1>Dietrich Bonhoeffers Überzeugung</h1>
-  
+  <a href="index.html">Allgemeines</a>
   </body>
   </html>
