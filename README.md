@@ -12,3 +12,4 @@
   <a href="Krit.html">Kritik an der bestehenden Ordnung</a> |
   </body>
   </html>
+<body>Dietrich</body>
