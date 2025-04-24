@@ -18,8 +18,6 @@
   <b> </b>
   <p>
 
-  <img src="bonhoeffer.cdeutsches.bundesarchiv.jpg"
-  width="300px" height="200px"
   </p>
 
 
