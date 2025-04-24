@@ -11,8 +11,7 @@
   <a href="Poli.html">Politisch</a> |
   <a href="Ethi.html">Ethisch</a>|
   <a href="Krit.html">Kritik an der bestehenden Ordnung</a> |
-   </body>
-  </html>
+
    
    <h1>Allgemeine Daten</h1>
   <p>
