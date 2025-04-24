@@ -12,7 +12,7 @@
   <a href="Ethi.html">Ethisch</a>|
   <a href="Krit.html">Kritik an der bestehenden Ordnung</a> |
    </body>
-  <html>
+  </html>
    
    <h1>Allgemeine Daten</h1>
   
