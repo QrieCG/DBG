@@ -10,7 +10,9 @@
   <a href="Poli.html">Politisch</a> |
   <a href="Ethi.html">Ethisch</a>|
   <a href="Krit.html">Kritik an der bestehenden Ordnung</a> |
-  <b>Dietrich Bonhoeffer war ein deutscher evangelischer Theologe, Pastor und Widerstandskämpfer, der durch seinen
+ 
+    
+   <b>Dietrich Bonhoeffer war ein deutscher evangelischer Theologe, Pastor und Widerstandskämpfer, der durch seinen
 unerschütterlichen Glauben und seinen mutigen Einsatz gegen das NS-Regime zu einer wichtigen Gestalt des 20. Jahrhunderts
 wurde. Geboren am 4. Februar 1906 in Breslau, studierte er Theologie an renommierten Universitäten in Tübingen, Rom und
 Berlin. Sein Studium, das in einer Doktorarbeit über die „Sanctorum Communio“ gipfelte, prägte seine spätere ethische und
