@@ -29,7 +29,7 @@ Widerstands, die den Mut verkörperte.</p>
 <p>Sein engagiertes Eintreten gegen das NS-Regime brachte Bonhoeffer 1943 in Konikt mit den Machthabern, was schließlich zu
 seiner Verhaftung führte. Trotz der Umstände seiner Inhaftierung blieb er seiner theologischen Überzeugung treu und setzte seine
 Lehre fort. Die Hinrichtung im April 1945 im KZ Flossenbürg beendete sein Leben, doch sein Werk lebt weiter und beeinusst bis
-heute sowohl theologische als auch ethische Diskurse.</p>
+heute sowohl theologische als auch ethische Aspekte.</p>
 Bonhoeffers Leben und Wirken stehen beispielhaft für den Mut, sich auch unter höchstem persönlichen Risiko für Gerechtigkeit
 und Menschlichkeit einzusetzen. Seine Schriften und sein beispielhaftes Handeln haben weit über die Grenzen der Theologie
 hinaus Wirkung entfaltet und regen bis heute zur Diskussion über die Verantwortung des Einzelnen in der Gesellschaft an.<p>
