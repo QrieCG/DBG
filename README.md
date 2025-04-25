@@ -17,10 +17,7 @@
   <p>
   <b>Dietrich Bonhoeffer war ein deutscher evangelischer Theologe, Pastor und Widerstandskämpfer, der durch seinen starken
 Glauben und seinem mutigen Handeln gegen das NS-Regime zu einer wichtigen Person des 20. Jahrhunderts wurde. Geboren
-am 4. Februar 1906 in Breslau, studierte er Theologie an Universitäten mit hohen Ansehen in Tübingen, Rom und Berlin. Sein
-Studium, das in einer Doktorarbeit über die „Sanctorum Communio“ sein Höhepunkt nahm, prägte seine spätere ethische und
-theologische Haltung maßgeblich. Schon früh entwickelte Bonhoeffer ein tiefes Interesse daran, wie Glaube und gesellschaftliche
-Verantwortung miteinander verbunden sind.</p>
+am 4. Februar 1906 in Breslau, studierte er Theologie an Universitäten mit hohen Ansehen in Tübingen, Rom und Berlin.</p>
 <p>Mit dem Aufstieg des Nationalsozialismus wandte er sich entschieden gegen die ideologische Vereinnahmung der Kirche und die
 menschenverachtende Politik des Regimes. Als Mitglied der Bekennenden Kirche forderte er, dass sich die Kirche ihrer
 Verantwortung nicht entzieht, sondern aktiv für die Wahrung ethischer Werte eintritt. An diesem Punkt startete seine Kritik and der
